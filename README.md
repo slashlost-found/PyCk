@@ -26,5 +26,11 @@ If you have any idea share with us to improve it, Please.
 This project is licensed under the GNU GPLv3 License - see the [LICENSE](LICENSE) file for details
 
 ## Contact
+Naategh:
 - Email: manamtabeshekan@gmail.com
 - Telegram: @Naategh
+
+(Contributors from [/lost+found/](https://github.com/slash-lostfound))
+Monarrk:
+- Email: skyebleed@mailfence.com
+- Discord: Monarrk#5707
