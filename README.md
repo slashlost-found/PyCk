@@ -30,7 +30,7 @@ Naategh:
 - Email: manamtabeshekan@gmail.com
 - Telegram: @Naategh
 
-(Contributors from [/lost+found/](https://github.com/slash-lostfound))
+(Contributors from [/lost+found/](https://github.com/slashlost-found))
 Monarrk:
 - Email: skyebleed@mailfence.com
 - Discord: Monarrk#5707
